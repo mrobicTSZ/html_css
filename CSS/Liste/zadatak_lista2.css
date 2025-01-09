@@ -1,0 +1,4 @@
+ul{background-color: aqua}
+ul li{background-color: azure}
+
+ol li{list-style-image:image('R.png')}

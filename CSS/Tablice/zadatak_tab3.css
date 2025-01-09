@@ -1,0 +1,14 @@
+table, tr, td{
+    vertical-align:bottom;
+    text-align:right ;
+    border:5px solid pink;
+    border-collapse: collapse;
+}
+
+table{width:100%;}
+
+tr, td{height: 100px;}
+
+td:hover{
+    background-color:red;
+}
