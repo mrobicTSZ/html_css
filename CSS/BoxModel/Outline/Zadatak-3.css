@@ -1,0 +1,14 @@
+p{
+    border: 1px solid black;
+
+}
+
+.text1{
+    outline-width: thick;
+    outline-style: double;
+    outline-color: red;
+}
+
+.text2{
+    outline: 3px double green;
+}

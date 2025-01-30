@@ -1,0 +1,15 @@
+.prvi{
+    border: 5px solid red;
+}
+
+.drugi{
+    border: 2px solid blueviolet;
+}
+
+.treci{
+    border-width: thin;
+}
+
+.cetvrti{
+    border:thin dotted green;
+}
